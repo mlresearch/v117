@@ -1,0 +1,62 @@
+---
+booktitle: Proceedings of the 31st International Conference  on Algorithmic Learning
+  Theory
+shortname: ALT
+volume: 117
+year: '2020'
+start: 2020-02-08
+end: 2012-02-11
+published: 2020-01-28
+url: http://proceedings.mlr.press
+conference_number: '31'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: ALT-2020
+month: 0
+cycles: false
+bibtex_editor: Kontorovich, Aryeh and Neu, Gergely
+editor:
+- given: Aryeh
+  family: Kontorovich
+- given: Gergely
+  family: Neu
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 31st International Conference  on Algorithmic Learning Theory
+    Held in San Diego, California, USA on 08 February to 11 February 2012
+
+  Published as Volume 117 by the Proceedings of Machine Learning Research on 28 January 2020.
+
+  Volume Edited by:
+    Aryeh Kontorovich
+    Gergely Neu
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: '08 Feb--11 Feb'
+baseurl: "/v117"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v117
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Algorithmic Learning Theory
+  url: 
+  location: San Diego, California, USA
+  dates: []
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/neil/mlresearch/v117/alt20.bib
